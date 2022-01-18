@@ -1,1 +1,2 @@
-Test
+Removed some debugging
+Enabled all native governors
