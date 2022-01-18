@@ -1,2 +1,7 @@
-Removed some debugging
-Enabled all native governors
+1-S1 - Testing ota release.
+
+2-S1 - Disabled KNOX and AUDIT
+
+3-S1 - Disbaled useless tracing and debugging
+
+4-S1 - Enabled wireguard
