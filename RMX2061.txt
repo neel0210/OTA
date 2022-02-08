@@ -1,0 +1,10 @@
+# Version -- SSJ1
+• Kakarot initial kernel release
+• Upstreamed to latest 4.14.264
+• Compiled with SnapDragon CLANG
+• Enabled ZRAM LZ4
+• Some battery saving tweaks
+• Improved swappiness
+• Added MAPLE I/O scheduler
+• Added SIO I/O scheduler
+• Added ANXIETY I/O scheduler

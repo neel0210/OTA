@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "Kakarot kernel",
+    "version": "SSJ1",
+    "link": "https://sourceforge.net/projects/kakarot-kernel/files/RMX2061/Kakarot-Kernel-Realme6pro-Neel0210-08-02-2022-21-58.zip/download",
+    "changelog_url": "https://raw.githubusercontent.com/neel0210/OTA/main/RMX2061.txt",
+    "date": "2022-02-08",
+    "sha1": "524ec7c06898efa949b9738a56d7df2bde8ca056"
+  },
+  "support": {
+    "link": "https://t.me/prishsupport"
+  }
+}
