@@ -8,3 +8,9 @@
 • Added MAPLE I/O scheduler
 • Added SIO I/O scheduler
 • Added ANXIETY I/O scheduler
+
+# Version -- SSJ2
+• Upstreamed to latest 4.14.268
+• Compiled with Ubuntu CLANG
+• Improved Overall swappiness
+• Added some power saving tweaks
